@@ -1,6 +1,6 @@
 {
   "name": "nail-js-edge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use latest features of JavaScript",
   "main": "index.js",
   "scripts": {
